@@ -113,9 +113,10 @@ class GraphPage(tk.Frame):
         button1.pack()
 
         f = Figure(figsize=(5,5), dpi=100)
-        a = f.add_subplot(111)
-        a.plot([1,2,3,4,5,6,7,8,9,10],[1,2,3,4,5,6,7,8,9,10])
-
+        plt = f.add_subplot(111)
+        plt.plot([1,2,3,4,5,6,7,8,9,10],[2,2,5,4,5,6,4,8,9,5],('go-'))
+        plt.grid(True)
+        
         
 
         canvas = FigureCanvasTkAgg(f, self)
