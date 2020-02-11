@@ -116,8 +116,8 @@ class GraphPage(tk.Frame):
         plt = f.add_subplot(111)
         plt.plot([1,2,3,4,5,6,7,8,9,10],[2,2,5,4,5,6,4,8,9,5],('go-'))
         plt.grid(True)
-        
-        
+       # plt.title('Live Stream Data')
+               
 
         canvas = FigureCanvasTkAgg(f, self)
         canvas.show()
