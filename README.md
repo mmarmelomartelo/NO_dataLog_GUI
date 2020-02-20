@@ -4,11 +4,11 @@
 
 * The Figure below shown a graph generated on real time using the NO_dataLog_GUI
 
-! [Imgur](https://i.imgur.com/q5kk3S4.png)
+![Imgur](https://i.imgur.com/q5kk3S4.png)
 
 * The Figure below shown a basic setup using a potentiometer + breadboard attached to an Arduino Uno to generate real time Analog to Digital signals collected by  NO_dataLog_GUI
 
-! [Imgur](https://i.imgur.com/AxN6EcW.png)
+![Imgur](https://i.imgur.com/AxN6EcW.png)
 
 
 
