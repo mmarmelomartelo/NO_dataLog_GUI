@@ -1,4 +1,4 @@
-[create an anchor](# NO_dataLog_GUI)
+(# NO-dataLog-GUI)
 *This is a basic Grafic User Interface based on Tkinter. The NO data Log will be used to collect data on real time from a serial port (analog to digital)
 
 
